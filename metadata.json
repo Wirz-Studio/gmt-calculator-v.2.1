@@ -1,0 +1,6 @@
+{
+  "name": "Global Minimum Tax Calculator & AI Agent",
+  "description": "An interactive Global Minimum Tax (GMT) calculator based on PMK 136/2024, featuring an AI agent to answer your questions about the regulation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
